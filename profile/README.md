@@ -1,3 +1,9 @@
+
+
+
+
+
+
 <!-- adicionar logo do ladesa -->
 
 # Sobre o Ladesa
@@ -8,20 +14,24 @@ Baseados em um ambiente escolar, visamos desenvolver sistemas que resolvam probl
 
 Saiba mais lendo [nossa documentação](https://docs.ladesa.com.br/introduction/systems).
 
-## Repositórios
+## Links Úteis
 
-### Front-end
-- [Aplicação web](https://docs.ladesa.com.br/introduction/systems)
-- [Mobile](https://github.com/ladesa-ro/mobile)
+- **Documentação**
+  - [dev.ladesa.com.br](https://docs.ladesa.com.br/) 
+  - Google Docs
+    - [Técnica](https://docs.google.com/document/d/1HB6QzwVzIVluIq6WzlZJ68DHcR_M7PNXsbHyp2g5BlU/edit?usp=sharing)
 
-### Back-end
-- [API REST + GraphQL](https://github.com/ladesa-ro/api)
-- [Gerar Horário](https://github.com/ladesa-ro/api)
-- [Autenticação](https://github.com/ladesa-ro/autenticacao)
+- **Repositórios**:
+  - **domain**: https://github.com/ladesa-ro/domain
+  - front-end/
+    - **web**: https://github.com/ladesa-ro/web
+    - **mobile**: https://github.com/ladesa-ro/mobile
+  - back-end/
+    - **api**: https://github.com/ladesa-ro/api
+    - **gerar-horario**: https://github.com/ladesa-ro/gerar-horario
 
-### Documentação
-- [Ladesa Docs](https://github.com/ladesa-ro/docs)
 
-### Equipe
+<!-- ### Equipe -->
 
 <!-- adicionar os contributors -->
+

@@ -1,9 +1,3 @@
-
-
-
-
-
-
 <!-- adicionar logo do ladesa -->
 
 # Sobre o Ladesa
@@ -19,8 +13,7 @@ Saiba mais lendo [nossa documentação](https://docs.ladesa.com.br/introduction/
 - **Documentação**
   - [dev.ladesa.com.br](https://docs.ladesa.com.br/) 
   - Google Docs
-    - [Técnica](https://docs.google.com/document/d/1HB6QzwVzIVluIq6WzlZJ68DHcR_M7PNXsbHyp2g5BlU/edit?usp=sharing)
-
+    - [Documentação Técnica](https://docs.google.com/document/d/1HB6QzwVzIVluIq6WzlZJ68DHcR_M7PNXsbHyp2g5BlU/edit?usp=sharing)
 - **Repositórios**:
   - **domain**: https://github.com/ladesa-ro/domain
   - front-end/
@@ -29,7 +22,6 @@ Saiba mais lendo [nossa documentação](https://docs.ladesa.com.br/introduction/
   - back-end/
     - **api**: https://github.com/ladesa-ro/api
     - **gerar-horario**: https://github.com/ladesa-ro/gerar-horario
-
 
 <!-- ### Equipe -->
 

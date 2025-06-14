@@ -20,8 +20,8 @@ Saiba mais lendo [nossa documentação](https://docs.ladesa.com.br/introduction/
     - **web**: https://github.com/ladesa-ro/web
     - **mobile**: https://github.com/ladesa-ro/mobile
   - back-end/
-    - **api**: https://github.com/ladesa-ro/api
-    - **gerar-horario**: https://github.com/ladesa-ro/gerar-horario
+    - **management-service**: https://github.com/ladesa-ro/management-service
+    - **timetable-generator**: https://github.com/ladesa-ro/timetable-generator
 
 <!-- ### Equipe -->
 

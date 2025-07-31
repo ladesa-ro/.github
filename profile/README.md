@@ -15,7 +15,6 @@ Saiba mais lendo [nossa documentação](https://docs.ladesa.com.br/introduction/
   - Google Docs
     - [Documentação Técnica](https://docs.google.com/document/d/1HB6QzwVzIVluIq6WzlZJ68DHcR_M7PNXsbHyp2g5BlU/edit?usp=sharing)
 - **Repositórios**:
-  - **domain**: https://github.com/ladesa-ro/domain
   - front-end/
     - **web**: https://github.com/ladesa-ro/web
     - **mobile**: https://github.com/ladesa-ro/mobile
